@@ -1,0 +1,24 @@
+.headerBg {
+  background-color: var(--black);
+}
+.headerContainer {
+  color: var(--white);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.headerTitle {
+  font-family: "audiowide", sans-serif;
+}
+
+header a {
+  text-decoration: none;
+  color: var(--white);
+}
+
+.navLinks {
+  display: flex;
+  gap: 1rem;
+}

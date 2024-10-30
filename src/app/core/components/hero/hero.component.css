@@ -1,0 +1,6 @@
+.hero{
+    background-image: url(../hero/heroBg.jpg);
+    min-height: 100vh;
+    width: 100%;
+}
+
