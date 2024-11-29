@@ -1,6 +1,11 @@
-.headerBg {
-  background-color: var(--black);
+header{
+  position: absolute ;
+  width: 100% ;
 }
+
+/* .headerBg {
+  background-color: var(--black);
+} */
 .headerContainer {
   color: var(--white);
   display: flex;
@@ -11,6 +16,7 @@
 
 .headerTitle {
   font-family: "audiowide", sans-serif;
+  font-size: 2.5rem;
 }
 
 header a {
@@ -19,6 +25,8 @@ header a {
 }
 
 .navLinks {
+  font-family: "audiowide", sans-serif;
+  font-size: 1.5rem;
   display: flex;
   gap: 1rem;
 }

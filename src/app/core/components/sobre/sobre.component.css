@@ -1,0 +1,18 @@
+/* 
+Estiliza para que ocupe metade da tela a esquerda
+*/
+
+.container {
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: justify;
+    width: 20%;
+    font-size: 2rem;
+    
+}
+
+.container strong{
+    font-size: 3rem;
+}
